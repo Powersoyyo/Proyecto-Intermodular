@@ -1,3 +1,4 @@
+# REDES LOCALES
 este apartado del proyecto intermodular se centra en la asignatura redes locales, para ello he tenido que crear un esquema de una oficina.
 he usado 4 ordenadores, 1 impresora, 1 router, 1 switch y 1 cloud
 <img width="822" height="711" alt="image" src="https://github.com/user-attachments/assets/f1b54aef-9b51-4370-9b86-94497fcd0e3e" />
